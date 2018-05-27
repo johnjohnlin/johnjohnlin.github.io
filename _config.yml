@@ -1,0 +1,9 @@
+name: Nicotb Project Document
+theme: minima
+markdown: kramdown
+github_username: johnjohnlin
+title: "Yu-Sheng Lin's Webpage"
+description: "Yu-Sheng Lin's Webpage"
+author: "Yu-Sheng Lin"
+header_pages:
+ - index.html
