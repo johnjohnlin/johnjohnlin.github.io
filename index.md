@@ -1,14 +1,14 @@
 ---
 layout: page
-title: "Yu-Sheng Lin's Webpage"
+title: "Hi, Yu-Sheng Lin here!"
 ---
 
-# About me
-Hi, this is Yu-Sheng Lin from Taiwan.
+## About me
+Hi, this is Yu-Sheng Lin from Taiwan, and welcome to my personal page.
 I am a VLSI hardware architecturer/engineer, and my professional skill is about parallel processors like GPGPUs.
 I am also familiar with several software technieques or languages like CUDA, modern C++ and Python.
 
-# Projects
+## Projects
 
 * [UMI](https://github.com/johnjohnlin/UMI/) (GPL)
 	* Write memory-optimized CUDA code easily.
@@ -20,7 +20,7 @@ I am also familiar with several software technieques or languages like CUDA, mod
 	* Simulate RTL code with Python easily.
 	* [Documents](https://johnjohnlin.github.io/nicotb/)
 
-# Publications
+## Publications
 
 * Chih-Ting Liu, Yi-Heng Wu, **Yu-Sheng Lin**, and Shao-Yi Chien, "Computation-Performance Optimization of Convolutional Neural Networks with Redundant Kernel Removal," in 2018 International Symposium on Circuits and Systems (ISCAS), May. 2018
 * **Yu-Sheng Lin**, Wei-Chao Chen, and Shao-Yi Chien, "Unrolled Memory Inner-products: an abstract GPU operator for efficient vision-related computations," in International Conference on Computer Vision (ICCV), Oct. 2017 (Spotlight poster paper)
@@ -29,8 +29,8 @@ I am also familiar with several software technieques or languages like CUDA, mod
 * Wei-Kai Chan, Yu-Hsiang Tseng, **Yu-Sheng Lin**, Shao-Yi Chien, "Coarse-grained reconfigurable stream processor for distributed smart cameras," in SiPS 2014: 262-267, Oct. 2014
 * Yu-Jung Chen, **Yu-Sheng Lin**, Hsin-Fang Wu, Chia-Ming Chang, Shao-Yi Chien, "HD video decoding scheme based on mobile heterogeneous system architecture," in Proc. International Conference on Acoustics, Speech, and Signal Processing (ICASSP2013), Vancouver, Canada, May. 2013
 
-# Experience
-## Intership
+## Experience
+### Intership
 * MultiTeK (2016 summer)
 	* Deep learning architecture survey and design.
 * A part-time Job with my friends (2012 summer)
@@ -38,12 +38,12 @@ I am also familiar with several software technieques or languages like CUDA, mod
 * MediaTeK (2011 summer)
 	* Accelerating SIFT with OpenCL.
 
-## Education
+### Education
 * PhD. candidate at Graduate Institution of Electronic Engineering, National Taiwan University (GIEE, NTU).
 * Bachelor at Department of Electrical Engineering, National Taiwan University (Dep. of EE, NTU).
 	* Ranking 8 out of about 240 peers.
 
-## TA
+### TA
 * Graduate courses
 	* DSP in VLSI design
 	* Multimedia SoC
@@ -53,6 +53,6 @@ I am also familiar with several software technieques or languages like CUDA, mod
 	* Digital circuit lab
 	* Linear algebra
 
-# Tutorial
+## Tutorial
 
 TODO
